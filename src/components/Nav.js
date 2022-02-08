@@ -6,8 +6,9 @@ const Nav = () => {
   return (
     <div>
       <Link to='/about'>About</Link>  
-      {/* <Link>Services</Link>  
-      <Link>Press</Link>   */}
+      <Link to='/services'>Services</Link>  
+      <Link to='/contact'>Contact</Link>  
+      <Link to='/press'>Press</Link>  
       <button>Make a reservation</button>
     </div>
   );
