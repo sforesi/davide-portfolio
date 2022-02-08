@@ -6,7 +6,7 @@ import About from './pages/about/About';
 import Press from './pages/press/Press';
 import Services from './pages/services./Services';
 import Contact from './pages/contact/Contact';
-import Nav from './components/Nav';
+import Nav from './components/nav/Nav';
 
 
 function App() {

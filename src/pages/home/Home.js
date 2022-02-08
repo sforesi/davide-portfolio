@@ -1,5 +1,5 @@
 import React from 'react';
-import Nav from '../../components/Nav';
+import Nav from '../../components/nav/Nav';
 import Home_bg from '../../images/davide-homepage-pic.JPG'
 import './styles.css'
 
