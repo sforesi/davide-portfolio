@@ -5,9 +5,9 @@ import { Link } from 'react-router-dom';
 const Nav = () => {
   return (
     <div>
-      <Link>About</Link>  
-      <Link>Services</Link>  
-      <Link>Press</Link>  
+      <Link to='/about'>About</Link>  
+      {/* <Link>Services</Link>  
+      <Link>Press</Link>   */}
       <button>Make a reservation</button>
     </div>
   );

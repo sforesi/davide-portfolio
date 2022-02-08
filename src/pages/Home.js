@@ -4,7 +4,8 @@ import Nav from '../components/Nav';
 const Home = props => {
   return (
     <div>
-      Davide Mancini <Nav/>
+      Davide Mancini 
+      <Nav />
     </div>
   );
 };

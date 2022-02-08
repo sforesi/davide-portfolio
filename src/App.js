@@ -7,9 +7,9 @@ import About from './pages/About';
 function App() {
   return (
     <div className="App">
-      <Home/>
       <Routes>
-        <Route path='/about' element={<About/>}/>
+        <Route path='/' element={<Home />} />
+        <Route path='/about' element={<About />} />
 
       </Routes>
     </div>
