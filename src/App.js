@@ -6,10 +6,13 @@ import About from './pages/About';
 import Press from './pages/Press';
 import Services from './pages/Services';
 import Contact from './pages/Contact';
+import Nav from './components/Nav';
+
 
 function App() {
   return (
     <div className="App">
+      <Nav />
       <Routes>
         <Route path='/' element={<Home />} />
         <Route path='/about' element={<About />} />

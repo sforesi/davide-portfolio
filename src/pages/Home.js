@@ -5,7 +5,6 @@ const Home = props => {
   return (
     <div>
       Davide Mancini 
-      <Nav />
     </div>
   );
 };
