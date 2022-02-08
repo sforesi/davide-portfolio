@@ -1,11 +1,11 @@
 import './App.css';
 import React from 'react';
-import Home from './pages/Home';
+import Home from './pages/home/Home';
 import { Route, Routes } from 'react-router-dom';
-import About from './pages/About';
-import Press from './pages/Press';
-import Services from './pages/Services';
-import Contact from './pages/Contact';
+import About from './pages/about/About';
+import Press from './pages/press/Press';
+import Services from './pages/services./Services';
+import Contact from './pages/contact/Contact';
 import Nav from './components/Nav';
 
 

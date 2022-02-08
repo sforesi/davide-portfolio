@@ -1,6 +1,6 @@
 import React from 'react';
-import Nav from '../components/Nav';
-import Home_bg from '../images/davide-homepage-pic.JPG'
+import Nav from '../../components/Nav';
+import Home_bg from '../../images/davide-homepage-pic.JPG'
 
 const Home = props => {
   return (
