@@ -3,7 +3,7 @@ import React from 'react';
 const Press = () => {
   return (
     <div>
-      HES FAMOUS 
+      USE GOOGLE API TO RETURN COOL RESULTS 
     </div>
   );
 };
